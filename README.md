@@ -16,7 +16,8 @@ Additional tests for CS577 Spring 2021 HW03: Greedy Algorithms
 
 ### Option 2: Download specific files
 
- - Download [tests.json](tests.json) and [hw03-test.py](hw03-test.py) into the directory that contains your `Makefile` and code. Your need to be able to run your code using `$ make build && make run` in that directory.
+ - Download [tests.json](tests.json) and [hw03-test.py](hw03-test.py) into the directory that contains your `Makefile` and code.
+
 
 ## Usage
 
@@ -31,6 +32,8 @@ The contents of your directory should look like this:
 ```
 
 where `source_code` is the file(s) you'd submit to Gradescope with your `Makefile`. Mine is `Scheduling.cpp`, but you might have `hw03.py`, `Main.java`, or something else.
+
+You'll need to be able to run your code using `$ make build && make run` in the directory containing your code and the test files.
 
 To run the tests, do
 
