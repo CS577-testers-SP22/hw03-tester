@@ -11,7 +11,7 @@ Additional tests for CS577 Spring 2021 HW03: Greedy Algorithms
 
 ### Option 1: Clone the entire repo
 
- - Run `$ git clone https://github.com/CS577-testers-SP22/hw02-tester/`
+ - Run `$ git clone https://github.com/CS577-testers-SP22/hw03-tester/`
  - Copy your code and `Makefile` into the repo
 
 ### Option 2: Download specific files
