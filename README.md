@@ -1,6 +1,6 @@
 # hw03-tester
 
-Additional tests for CS577 Spring 2021 HW03: Greedy Algorithms
+Additional tests for CS577 Spring 2022 HW03: Greedy Algorithms
 
 ## Changes
 
